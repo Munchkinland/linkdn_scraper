@@ -57,4 +57,6 @@ Las contribuciones al proyecto son bienvenidas. Por favor, abre un issue o una p
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
+## Agradecimientos
+
 ¡Gracias por visitar el proyecto! Si tienes alguna pregunta, no dudes en abrir un issue.
